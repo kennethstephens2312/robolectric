@@ -9,7 +9,7 @@ Robolectric supports running unit tests for *17* different versions of Android, 
 
 ## Usage
 
-Here's an example of a simple test written using Robolectric:
+Here's an example of a simple test written using Robolectric::
 
 ```java
 @RunWith(AndroidJUnit4.class)
